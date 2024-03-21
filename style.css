@@ -1,0 +1,29 @@
+h2{
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1:hover{
+    color: rgb(247, 40, 126);
+    font-size: 40px;
+}
+.standout{
+    color: blue;
+}
+h2.standout{
+    color: brown;
+}
+.image1:hover{
+    border-radius: 20px;
+}
+.image2:hover{
+    border-radius: 100px;
+}
+.image3:hover{
+    opacity: 50%;
+}
+.image4:hover{
+    filter: blur(2px);
+}
+.image5:hover{
+    filter: grayscale(80%);
+}
